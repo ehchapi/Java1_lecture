@@ -25,7 +25,6 @@ public class AccountingApp {
 		System.out.println("Dividend 2 : "+ dividend2);
 		System.out.println("Dividend 3 : "+ dividend3);
 
-
 		
 	}
 
